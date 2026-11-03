@@ -9,6 +9,7 @@ Chaque projet a son propre dépôt GitHub, avec son code, son pipeline automatis
 | # | Projet | Question métier | Technologies | Code | Démo |
 |---|--------|-----------------|--------------|------|------|
 | 1 | **EU Capitals Dashboard** | Quelle capitale de l'UE offre la meilleure météo la semaine prochaine, tout en limitant le CO₂ du trajet depuis Paris ? | Python, API météo, GitHub Actions, GitHub Pages | [Dépôt](https://github.com/omar-el-moujahid/eu-capitals-dashboard) | [Dashboard](https://omar-el-moujahid.github.io/eu-capitals-dashboard/) |
+| 2 | **Smart Mobility Le Mans** | Avec des ressources limitées, où et quand Le Mans Métropole doit-elle améliorer en priorité son réseau de transport public ? | Python, pandas, GTFS, GTFS-RT, GitHub Actions, GitHub Pages, Chart.js | [Dépôt](https://github.com/omar-el-moujahid/Smart-Mobility-Le-Mans) | [Dashboard](https://omar-el-moujahid.github.io/Smart-Mobility-Le-Mans/) |
 
 ## Détail des projets
 
